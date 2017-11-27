@@ -588,15 +588,18 @@ main {
 		top: 0;
 		margin: 0.5em;
 	}
+
+	.codrops-header__tagline {
+		/*display: none;*/
+		margin-top: .75em;
+	}	
 }
 
 @media screen and (max-width: 26em) {
 	.codrops-header {
 		font-size: 0.75em;
 	}
-	.codrops-header__tagline {
-		display: none;
-	}
+
 	.codrops-header__title {
 		font-size: 1.5em;
 	}
