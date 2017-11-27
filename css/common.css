@@ -72,8 +72,8 @@ main {
 
 .icon {
 	display: block;
-	width: 2.5em;
-	height: 2.5em;
+	width: 1.5em;
+	height: 1.5em;
 	margin: 0 auto;
 	fill: currentColor;
 }
@@ -592,7 +592,7 @@ main {
 	.codrops-header__tagline {
 		/*display: none;*/
 		margin-top: .75em;
-	}	
+	}
 }
 
 @media screen and (max-width: 26em) {
