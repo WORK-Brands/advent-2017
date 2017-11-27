@@ -1,5 +1,8 @@
 body {
-	background: #cc0019;
+	background-color: rgba(204,0,25,0.8);
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-position: center;
 	color: #fceeb8;
 	font-family: 'BioRhyme', serif;
 }
