@@ -618,7 +618,7 @@
 			tilt: false
 		},
 		bgEl = document.body,
-		defaultBgColor = bgEl.style.backgroundColor,
+		defaultBgColor = "rgba(255,255,255,0.2)",
 		colortimeout,
 		contentEl = document.querySelector('.content'),
 		contents = contentEl.querySelectorAll('.content__block'),
